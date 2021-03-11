@@ -1,0 +1,454 @@
+symbol,socialScore,governanceScore,environmentScore,totalEsg,esgPerformance,percentile,peerGroup,highestControversy
+MMM,14.0,8.45,12.79,35.24,OUT_PERF,74.53,Industrial Conglomerates,3
+AOS,14.92,8.12,9.53,32.56,OUT_PERF,66.28,Machinery,2
+ABT,16.21,10.65,2.98,29.85,AVG_PERF,56.59,Healthcare,3
+ABBV,17.09,11.33,0.65,29.07,AVG_PERF,53.8,Pharmaceuticals,3
+ACN,4.98,5.78,0.55,11.31,UNDER_PERF,2.51,Software & Services,2
+ATVI,10.66,6.22,0.15,17.04,UNDER_PERF,12.54,Software & Services,2
+ADBE,5.65,4.74,0.48,10.88,UNDER_PERF,2.24,Software & Services,1
+AAP,8.67,3.33,0.1,12.1,UNDER_PERF,3.29,Retailing,2
+AES,8.31,5.84,20.82,34.97,OUT_PERF,73.76,Utilities,2
+AFL,7.86,12.94,2.46,23.26,AVG_PERF,32.2,Insurance,2
+A,9.44,6.26,0.87,16.57,UNDER_PERF,11.4,Pharmaceuticals,2
+APD,1.43,3.65,6.06,11.15,UNDER_PERF,2.39,Chemicals,1
+AKAM,11.8,7.53,2.02,21.35,AVG_PERF,25.65,Software & Services,1
+ALB,8.91,8.74,19.09,36.74,OUT_PERF,78.65,Chemicals,1
+ARE,6.27,5.86,2.98,15.1,UNDER_PERF,8.23,Real Estate,0
+ALXN,11.97,6.81,0.12,18.9,UNDER_PERF,17.67,Pharmaceuticals,2
+ALLE,4.23,6.55,11.06,21.83,AVG_PERF,27.37,Building Products,0
+LNT,7.38,6.3,14.68,28.37,AVG_PERF,51.11,Utilities,2
+ALL,8.71,12.68,1.62,23.01,AVG_PERF,31.35,Insurance,2
+GOOGL,9.87,11.94,0.48,22.29,AVG_PERF,28.96,Software & Services,4
+MO,13.02,6.54,5.81,25.36,AVG_PERF,40.26,Food Products,3
+AMZN,12.52,9.78,5.13,27.42,AVG_PERF,47.67,Retailing,3
+AEE,12.19,6.4,15.52,34.12,OUT_PERF,71.3,Utilities,2
+AAL,12.65,5.58,11.7,29.93,AVG_PERF,57.02,Transportation,2
+AEP,9.83,5.28,19.33,34.44,OUT_PERF,72.2,Utilities,2
+AXP,9.93,9.82,0.05,19.79,UNDER_PERF,20.53,Diversified Financials,3
+AIG,13.56,15.24,1.99,30.8,OUT_PERF,60.23,Insurance,2
+AMT,3.78,4.96,3.73,12.48,UNDER_PERF,3.66,Real Estate,0
+AWK,10.01,5.66,13.35,29.02,AVG_PERF,53.57,Utilities,2
+AMP,10.66,12.84,2.3,25.8,AVG_PERF,41.75,Diversified Financials,2
+ABC,5.51,5.72,1.21,12.43,UNDER_PERF,3.63,Healthcare,3
+AME,9.95,7.71,8.32,25.98,AVG_PERF,42.57,Electrical Equipment,1
+AMGN,12.78,6.3,0.03,19.11,UNDER_PERF,18.28,Pharmaceuticals,2
+APH,6.02,7.7,10.02,23.74,AVG_PERF,34.13,Technology Hardware,2
+ANSS,8.96,4.84,1.13,14.94,UNDER_PERF,7.89,Software & Services,0
+ANTM,6.97,5.27,0.03,12.27,UNDER_PERF,3.45,Healthcare,2
+APA,8.88,7.96,21.98,38.81,OUT_PERF,82.83,Oil & Gas Producers,2
+AAPL,7.69,8.94,0.1,16.73,UNDER_PERF,11.77,Technology Hardware,3
+AMAT,3.92,5.51,5.33,14.75,UNDER_PERF,7.56,Semiconductors,0
+APTV,4.59,5.15,3.73,13.47,UNDER_PERF,4.98,Auto Components,1
+ADM,13.51,4.8,15.91,34.23,OUT_PERF,71.64,Food Products,3
+ANET,9.06,8.16,0.4,17.62,UNDER_PERF,14.04,Technology Hardware,2
+AJG,11.67,12.73,0.14,24.54,AVG_PERF,37.15,Insurance,2
+AIZ,10.65,13.25,1.26,25.15,AVG_PERF,39.42,Insurance,3
+T,10.9,6.32,1.85,19.07,UNDER_PERF,18.13,Telecommunication Services,3
+ATO,12.06,6.82,12.8,31.68,OUT_PERF,63.37,Utilities,2
+ADSK,9.22,4.76,1.37,15.34,UNDER_PERF,8.65,Software & Services,0
+ADP,7.07,5.44,0.07,12.58,UNDER_PERF,3.84,Software & Services,1
+AZO,8.12,3.85,0.09,12.07,UNDER_PERF,3.26,Retailing,2
+AVB,2.87,5.26,3.41,11.53,UNDER_PERF,2.73,Real Estate,0
+AVY,1.93,4.08,12.26,18.27,UNDER_PERF,15.96,Containers & Packaging,1
+BLL,1.27,4.09,8.44,13.8,UNDER_PERF,5.63,Containers & Packaging,1
+BAC,13.93,10.74,1.62,26.29,AVG_PERF,43.83,Banks,3
+BAX,16.22,9.28,2.49,27.99,AVG_PERF,49.8,Healthcare,3
+BDX,15.69,9.5,3.37,28.57,AVG_PERF,51.85,Healthcare,3
+BBY,5.17,4.68,2.12,11.97,UNDER_PERF,3.17,Retailing,2
+BIO,12.3,7.25,1.53,21.07,AVG_PERF,24.75,Pharmaceuticals,2
+BIIB,14.99,7.49,0.02,22.49,AVG_PERF,29.64,Pharmaceuticals,2
+BLK,10.43,10.89,1.47,22.8,AVG_PERF,30.64,Diversified Financials,2
+BA,19.66,8.81,7.79,36.25,OUT_PERF,77.04,Aerospace & Defense,4
+BKNG,9.68,6.33,3.88,19.89,UNDER_PERF,20.81,Retailing,2
+BWA,10.84,7.26,5.66,23.76,AVG_PERF,34.24,Auto Components,2
+BXP,5.09,5.01,3.82,13.91,UNDER_PERF,5.88,Real Estate,1
+BSX,16.37,11.37,2.99,30.73,OUT_PERF,59.96,Healthcare,3
+BMY,15.2,7.4,0.03,22.63,AVG_PERF,30.06,Pharmaceuticals,2
+AVGO,8.66,7.93,8.96,25.54,AVG_PERF,40.9,Semiconductors,3
+BR,8.38,6.62,0.03,15.03,UNDER_PERF,8.09,Software & Services,2
+CHRW,13.08,6.28,6.38,25.74,AVG_PERF,41.5,Transportation,1
+COG,15.58,9.83,24.58,49.98,LEAD_PERF,96.39,Oil & Gas Producers,2
+CDNS,10.48,5.4,1.16,17.04,UNDER_PERF,12.51,Software & Services,0
+CPB,7.79,4.88,9.34,22.0,AVG_PERF,27.96,Food Products,2
+COF,13.46,9.63,0.06,23.15,AVG_PERF,31.88,Diversified Financials,4
+CAH,5.37,4.44,2.75,12.56,UNDER_PERF,3.82,Healthcare,3
+KMX,8.9,4.1,0.12,13.12,UNDER_PERF,4.5,Retailing,2
+CCL,9.17,3.86,8.42,21.44,AVG_PERF,26.01,Consumer Services,3
+CAT,19.63,8.89,10.72,39.25,OUT_PERF,83.62,Machinery,4
+CBOE,7.19,8.96,2.56,18.65,UNDER_PERF,17.06,Diversified Financials,2
+CBRE,2.75,3.58,2.34,8.67,LAG_PERF,1.36,Real Estate,1
+CDW,3.45,3.76,3.62,10.84,UNDER_PERF,2.2,Technology Hardware,0
+CE,7.71,7.31,14.86,29.87,,56.71,Chemicals,2
+CNC,15.92,6.66,0.14,22.72,,30.36,Healthcare,2
+CNP,11.93,5.88,17.85,35.65,LEAD_PERF,75.56,Utilities,2
+CERN,12.89,6.84,0.14,19.87,LAG_PERF,20.76,Healthcare,2
+CF,9.2,5.14,18.62,32.96,LEAD_PERF,67.64,Chemicals,2
+SCHW,10.61,12.56,2.11,25.27,,39.9,Diversified Financials,2
+CHTR,10.27,8.18,1.92,20.38,,22.6,Media,2
+CVX,11.98,9.98,18.34,40.29,,85.26,Oil & Gas Producers,3
+CMG,14.78,5.77,3.78,24.33,,36.32,Consumer Services,3
+CB,11.23,10.74,1.62,23.59,,33.48,Insurance,2
+CHD,8.28,7.18,7.28,22.75,,30.46,Household Products,2
+CI,5.99,5.65,0.02,11.65,LAG_PERF,2.83,Healthcare,2
+CINF,9.41,14.99,1.71,26.1,,43.19,Insurance,1
+CTAS,12.45,7.61,5.44,25.49,,40.73,Commercial Services,2
+CSCO,5.94,6.08,0.54,12.55,LAG_PERF,3.81,Technology Hardware,2
+C,11.43,13.43,1.47,26.34,,43.97,Banks,4
+CFG,13.07,11.41,1.87,26.34,,44.01,Banks,2
+CTXS,11.25,5.71,1.16,18.11,LAG_PERF,15.51,Software & Services,2
+CME,6.64,5.97,1.91,14.52,LAG_PERF,7.15,Diversified Financials,1
+CMS,9.07,5.37,13.42,27.87,,49.32,Utilities,2
+KO,10.81,5.07,9.2,25.08,,39.08,Food Products,3
+CTSH,12.81,7.85,1.04,21.7,,26.91,Software & Services,2
+CL,9.37,5.96,6.79,22.12,,28.29,Household Products,3
+CMCSA,9.3,8.92,1.22,19.43,LAG_PERF,19.4,Media,2
+CMA,13.13,12.05,1.69,26.87,,45.87,Banks,2
+CAG,16.32,5.12,10.49,31.93,LEAD_PERF,64.3,Food Products,2
+COP,9.83,6.99,18.58,35.39,LEAD_PERF,74.89,Oil & Gas Producers,2
+ED,13.51,6.64,5.04,25.18,,39.52,Utilities,3
+STZ,9.34,4.97,8.98,23.29,,32.32,Food Products,2
+CPRT,11.76,7.12,4.13,23.01,,31.31,Commercial Services,1
+GLW,5.2,6.89,7.91,20.0,LAG_PERF,21.18,Technology Hardware,2
+COST,10.94,6.11,5.32,22.37,,29.22,Food Retailers,3
+CCI,4.19,5.26,8.91,18.36,LAG_PERF,16.21,Real Estate,0
+CSX,9.38,3.61,5.31,18.31,LAG_PERF,16.07,Transportation,3
+CMI,8.17,5.95,3.72,17.83,LAG_PERF,14.76,Machinery,2
+CVS,13.07,4.77,3.13,20.97,,24.44,Food Retailers,3
+DHI,7.42,6.1,7.97,21.5,,26.21,Homebuilders,2
+DHR,18.08,9.86,4.74,32.69,LEAD_PERF,66.68,Healthcare,2
+DRI,11.85,4.42,5.93,22.2,,28.66,Consumer Services,2
+DVA,12.53,8.79,0.09,21.4,,25.86,Healthcare,2
+DE,9.56,3.95,4.39,17.89,LAG_PERF,14.97,Machinery,2
+DAL,11.64,4.6,8.18,24.41,,36.59,Transportation,2
+XRAY,10.42,6.51,3.15,20.07,,21.46,Healthcare,1
+DVN,8.68,7.51,17.7,33.89,LEAD_PERF,70.67,Oil & Gas Producers,2
+DXCM,13.04,8.2,5.93,27.18,,46.9,Healthcare,2
+DLR,5.38,5.37,3.41,14.15,LAG_PERF,6.33,Real Estate,1
+DFS,13.64,9.82,0.11,23.56,,33.35,Diversified Financials,1
+DISCA,9.13,9.12,0.16,18.41,LAG_PERF,16.37,Media,1
+DISH,11.34,9.16,1.72,22.22,,28.77,Media,3
+DG,8.49,5.08,3.25,16.82,LAG_PERF,11.98,Retailing,2
+DLTR,8.54,5.91,3.4,17.85,LAG_PERF,14.81,Retailing,2
+D,8.96,6.2,13.97,29.13,,54.01,Utilities,2
+DPZ,14.75,6.59,5.42,26.76,,45.52,Consumer Services,2
+DOV,14.14,6.41,7.79,28.35,,51.0,Machinery,1
+DTE,9.4,6.2,15.54,31.14,LEAD_PERF,61.39,Utilities,2
+DUK,11.57,5.78,15.61,32.96,LEAD_PERF,67.65,Utilities,3
+DRE,3.92,4.56,4.61,13.09,LAG_PERF,4.43,Real Estate,0
+DD,9.13,7.39,13.89,30.41,LEAD_PERF,58.79,Chemicals,3
+DXC,7.16,5.17,1.16,13.48,LAG_PERF,5.0,Software & Services,2
+EMN,5.34,7.05,11.42,23.81,,34.45,Chemicals,2
+ETN,6.63,5.72,4.66,17.01,LAG_PERF,12.46,Electrical Equipment,1
+EBAY,11.76,8.01,1.62,21.39,,25.77,Software & Services,2
+ECL,8.64,6.59,10.58,25.82,,41.9,Chemicals,2
+EIX,11.85,5.8,11.22,28.88,,53.15,Utilities,3
+EW,8.97,7.43,2.63,19.04,LAG_PERF,17.98,Healthcare,2
+EA,7.25,5.32,0.13,12.7,LAG_PERF,3.96,Software & Services,2
+EMR,14.25,6.87,9.23,30.34,LEAD_PERF,58.58,Machinery,2
+ETR,8.48,6.32,18.69,33.48,LEAD_PERF,69.31,Utilities,2
+EOG,11.06,8.24,19.67,38.97,LEAD_PERF,83.07,Oil & Gas Producers,1
+EFX,17.29,7.08,0.14,24.51,,36.97,Commercial Services,4
+EQIX,5.35,5.48,5.37,16.21,LAG_PERF,10.44,Real Estate,1
+EQR,4.35,4.85,4.78,13.99,LAG_PERF,6.02,Real Estate,1
+ESS,5.15,6.41,4.41,15.97,LAG_PERF,9.94,Real Estate,1
+EL,9.32,8.05,6.9,24.28,,36.07,Household Products,2
+RE,7.04,10.16,0.96,18.16,LAG_PERF,15.64,Insurance,1
+ES,10.34,6.25,6.38,22.97,,31.18,Utilities,2
+EXC,8.86,6.53,8.75,24.15,,35.6,Utilities,3
+EXPE,11.06,8.43,4.06,23.55,,33.28,Retailing,2
+EXPD,9.23,4.73,4.05,18.02,LAG_PERF,15.26,Transportation,0
+EXR,4.14,5.78,4.0,13.92,LAG_PERF,5.9,Real Estate,1
+XOM,10.57,8.24,16.29,35.11,LEAD_PERF,74.21,Oil & Gas Producers,2
+FFIV,11.46,5.32,1.17,17.95,LAG_PERF,15.11,Software & Services,0
+FB,17.93,12.28,1.4,31.61,LEAD_PERF,63.13,Software & Services,4
+FAST,8.66,7.71,8.91,25.27,,39.91,Traders & Distributors,2
+FRT,4.51,6.14,2.22,12.86,LAG_PERF,4.13,Real Estate,1
+FDX,10.02,5.99,5.25,21.26,,25.34,Transportation,3
+FIS,11.68,6.8,0.11,18.58,LAG_PERF,16.89,Software & Services,1
+FITB,13.23,10.44,2.22,25.89,,42.17,Banks,2
+FRC,10.96,11.77,1.91,24.64,,37.42,Banks,1
+FE,9.83,7.29,17.39,34.51,LEAD_PERF,72.37,Utilities,3
+FISV,12.1,7.28,0.15,19.53,LAG_PERF,19.73,Software & Services,2
+FLT,11.23,7.17,0.14,18.54,LAG_PERF,16.76,Software & Services,2
+FLS,19.01,7.5,11.6,38.11,LEAD_PERF,81.42,Machinery,2
+FMC,13.54,7.35,17.86,38.75,LEAD_PERF,82.73,Chemicals,2
+F,12.18,9.61,9.68,31.47,LEAD_PERF,62.59,Automobiles,3
+FTNT,13.93,6.19,1.36,21.48,,26.14,Software & Services,2
+FTV,14.18,5.53,15.45,35.17,LEAD_PERF,74.32,Industrial Conglomerates,2
+FBHS,3.66,7.35,13.9,24.92,,38.41,Building Products,0
+BEN,10.5,8.13,1.11,19.74,LAG_PERF,20.39,Diversified Financials,2
+FCX,12.06,5.29,16.71,34.06,LEAD_PERF,71.16,Diversified Metals,4
+GPS,6.58,5.72,1.11,13.41,LAG_PERF,4.92,Retailing,3
+GRMN,8.84,4.82,5.87,19.53,LAG_PERF,19.72,Consumer Durables,2
+IT,17.12,6.43,0.11,23.66,,33.82,Commercial Services,1
+GD,20.19,7.56,9.86,37.61,LEAD_PERF,80.46,Aerospace & Defense,3
+GE,15.72,11.49,15.44,42.65,,89.12,Industrial Conglomerates,3
+GIS,9.04,4.15,7.89,21.09,,24.8,Food Products,2
+GM,12.68,7.94,9.95,30.57,LEAD_PERF,59.43,Automobiles,4
+GPC,5.07,3.88,3.68,12.64,LAG_PERF,3.89,Retailing,2
+GILD,14.66,8.17,0.03,22.86,,30.88,Pharmaceuticals,2
+GPN,10.95,7.4,0.16,18.51,LAG_PERF,16.64,Software & Services,2
+GL,8.61,12.27,2.09,22.98,,31.2,Insurance,1
+GS,14.17,12.98,0.75,27.9,,49.44,Diversified Financials,3
+GWW,5.57,6.05,3.16,14.78,LAG_PERF,7.6,Traders & Distributors,1
+HAL,8.57,7.73,9.67,25.97,,42.48,Energy Services,2
+HBI,7.38,5.83,1.33,14.54,LAG_PERF,7.19,Textiles & Apparel,2
+HIG,7.45,9.64,1.65,18.74,LAG_PERF,17.31,Insurance,2
+HAS,6.5,5.74,0.05,12.29,LAG_PERF,3.49,Consumer Durables,2
+HCA,15.86,7.44,3.29,26.6,,44.86,Healthcare,2
+PEAK,3.03,4.31,3.34,10.69,LAG_PERF,2.12,Real Estate,2
+HSIC,5.68,5.68,3.65,15.01,LAG_PERF,8.02,Healthcare,2
+HES,6.33,7.38,15.55,29.26,,54.41,Oil & Gas Producers,2
+HPE,9.93,6.72,0.69,17.34,LAG_PERF,13.25,Technology Hardware,2
+HLT,8.13,3.54,8.11,19.78,LAG_PERF,20.5,Consumer Services,2
+HFC,7.97,5.06,20.54,33.57,LEAD_PERF,69.61,Refiners & Pipelines,1
+HOLX,14.28,11.72,4.45,30.45,LEAD_PERF,58.97,Healthcare,2
+HD,4.85,3.7,3.07,11.62,LAG_PERF,2.78,Retailing,2
+HON,11.87,8.59,10.3,30.76,LEAD_PERF,60.09,Industrial Conglomerates,3
+HRL,10.16,4.72,10.26,25.14,,39.35,Food Products,3
+HST,5.71,4.92,3.74,14.36,LAG_PERF,6.74,Real Estate,0
+HPQ,4.95,5.5,0.18,10.63,LAG_PERF,2.07,Technology Hardware,2
+HUM,17.54,5.52,0.1,23.16,,31.92,Healthcare,2
+HBAN,11.31,7.82,2.05,21.18,,25.12,Banks,2
+IEX,15.56,7.45,10.4,33.42,LEAD_PERF,69.11,Machinery,1
+IDXX,10.44,12.41,5.43,28.29,,50.79,Healthcare,0
+INFO,15.92,7.59,0.05,23.55,,33.29,Commercial Services,1
+ITW,8.79,6.45,4.24,19.47,LAG_PERF,19.5,Machinery,2
+ILMN,3.6,6.36,1.22,11.18,LAG_PERF,2.4,Pharmaceuticals,1
+INCY,18.26,7.64,0.11,26.01,,42.78,Pharmaceuticals,1
+INTC,6.06,6.23,3.84,16.14,LAG_PERF,10.29,Semiconductors,3
+ICE,6.76,7.42,1.53,15.71,LAG_PERF,9.43,Diversified Financials,3
+IBM,10.08,7.39,0.41,17.88,LAG_PERF,14.92,Software & Services,2
+IFF,5.87,7.57,10.76,24.2,,35.75,Chemicals,2
+IP,4.17,4.86,16.24,25.27,,39.85,Paper & Forestry,3
+IPG,9.79,5.95,0.05,15.79,LAG_PERF,9.6,Media,2
+INTU,9.98,5.65,1.11,16.74,LAG_PERF,11.8,Software & Services,2
+ISRG,14.17,10.58,4.97,29.72,,56.21,Healthcare,2
+IVZ,12.78,9.92,1.98,24.67,,37.59,Diversified Financials,1
+IPGP,4.08,5.97,3.43,13.48,LAG_PERF,5.01,Technology Hardware,0
+IQV,12.54,7.07,1.5,21.11,,24.9,Pharmaceuticals,1
+IRM,4.29,5.35,5.32,14.96,LAG_PERF,7.95,Real Estate,2
+JBHT,5.63,5.4,4.37,15.4,LAG_PERF,8.76,Transportation,1
+JKHY,9.71,5.35,1.24,16.31,LAG_PERF,10.75,Software & Services,0
+J,13.75,7.7,4.34,25.78,,41.68,Construction & Engineering,3
+SJM,9.85,6.26,11.23,27.34,,47.41,Food Products,2
+JNJ,19.83,9.82,0.74,30.39,LEAD_PERF,58.75,Pharmaceuticals,4
+JCI,2.52,6.12,9.04,17.67,LAG_PERF,14.2,Building Products,3
+JPM,16.07,10.79,1.04,27.9,,49.44,Banks,3
+JNPR,9.27,6.4,0.38,16.05,LAG_PERF,10.06,Technology Hardware,2
+KSU,10.16,3.84,8.61,22.61,,30.03,Transportation,2
+K,14.83,4.6,7.45,26.88,,45.9,Food Products,2
+KEY,10.98,10.86,2.18,24.01,,35.07,Banks,1
+KEYS,2.39,5.26,1.85,9.5,,1.56,Technology Hardware,1
+KMB,7.11,6.89,8.16,22.16,,28.46,Household Products,2
+KIM,4.03,5.42,4.42,13.86,LAG_PERF,5.76,Real Estate,0
+KMI,6.04,3.72,8.55,18.31,LAG_PERF,16.05,Refiners & Pipelines,2
+KLAC,6.73,5.96,6.84,19.52,LAG_PERF,19.66,Semiconductors,0
+KHC,14.41,6.61,13.28,34.3,LEAD_PERF,71.86,Food Products,3
+KR,9.33,5.99,5.71,21.03,,24.57,Food Retailers,3
+LB,7.78,5.87,2.48,16.12,LAG_PERF,10.24,Retailing,2
+LH,7.67,6.94,0.67,15.29,LAG_PERF,8.55,Healthcare,2
+LRCX,4.52,5.1,5.11,14.74,LAG_PERF,7.54,Semiconductors,0
+LVS,8.1,8.65,1.94,18.68,LAG_PERF,17.18,Consumer Services,2
+LEG,17.19,11.17,20.38,48.74,,95.68,Industrial Conglomerates,2
+LDOS,6.72,5.52,1.31,13.55,LAG_PERF,5.18,Software & Services,1
+LEN,9.3,5.45,7.91,22.66,,30.2,Homebuilders,2
+LLY,18.47,10.27,1.77,30.51,LEAD_PERF,59.22,Pharmaceuticals,3
+LNC,8.44,11.45,1.88,21.77,,27.1,Insurance,2
+LKQ,5.46,3.73,4.57,13.75,LAG_PERF,5.56,Retailing,0
+LMT,15.79,7.67,5.27,28.72,,52.56,Aerospace & Defense,3
+L,3.44,11.31,0.57,15.32,LAG_PERF,8.62,Diversified Financials,1
+LOW,4.87,3.34,4.33,12.54,LAG_PERF,3.79,Retailing,2
+LUMN,12.97,7.7,4.83,25.51,,40.8,Telecommunication Services,2
+LYB,2.8,7.12,16.28,26.2,,43.5,Chemicals,2
+MTB,13.4,11.8,2.02,27.23,,47.08,Banks,2
+MRO,10.27,8.77,23.08,42.11,,88.32,Oil & Gas Producers,2
+MPC,6.71,5.25,15.73,27.69,,48.62,Refiners & Pipelines,3
+MAR,10.95,3.93,10.07,24.95,,38.55,Consumer Services,3
+MMC,8.36,10.92,0.11,19.38,LAG_PERF,19.24,Insurance,2
+MLM,4.9,8.72,17.65,31.28,LEAD_PERF,61.85,Construction Materials,2
+MAS,3.1,6.14,10.57,19.8,LAG_PERF,20.54,Building Products,1
+MA,7.68,8.57,0.06,16.31,LAG_PERF,10.74,Software & Services,4
+MXIM,7.92,6.49,8.15,22.57,,29.87,Semiconductors,0
+MKC,14.08,5.23,9.07,28.38,,51.13,Food Products,2
+MCD,14.65,5.56,3.67,23.88,,34.7,Consumer Services,3
+MCK,8.89,5.36,2.04,16.28,LAG_PERF,10.67,Healthcare,4
+MDT,14.03,7.73,2.57,24.34,,36.34,Healthcare,3
+MRK,11.31,10.78,0.9,22.98,,31.22,Pharmaceuticals,3
+MET,7.85,9.34,1.38,18.57,LAG_PERF,16.85,Insurance,2
+MTD,4.73,5.65,0.92,11.3,LAG_PERF,2.49,Pharmaceuticals,1
+MGM,13.04,11.87,2.44,27.35,,47.45,Consumer Services,2
+MCHP,9.44,8.76,15.85,34.05,LEAD_PERF,71.12,Semiconductors,1
+MU,4.2,6.41,7.21,17.82,LAG_PERF,14.72,Semiconductors,2
+MSFT,9.37,4.9,0.47,14.74,LAG_PERF,7.55,Software & Services,3
+MAA,7.12,5.64,6.03,18.79,LAG_PERF,17.42,Real Estate,1
+MHK,4.53,4.47,5.47,14.48,LAG_PERF,6.97,Consumer Durables,2
+TAP,7.29,5.62,5.97,18.88,LAG_PERF,17.61,Food Products,2
+MDLZ,10.78,5.16,7.56,23.5,,33.09,Food Products,3
+MNST,10.55,5.43,12.57,28.55,,51.8,Food Products,2
+MCO,5.86,5.67,0.03,11.57,LAG_PERF,2.74,Diversified Financials,2
+MS,12.47,9.4,0.81,22.68,,30.28,Diversified Financials,3
+MSI,7.18,5.3,1.97,14.43,LAG_PERF,6.87,Technology Hardware,3
+MSCI,16.71,5.83,0.11,22.65,,30.18,Commercial Services,1
+NDAQ,6.73,6.67,1.54,14.94,LAG_PERF,7.91,Diversified Financials,2
+NTAP,7.59,6.18,2.67,16.44,LAG_PERF,11.04,Technology Hardware,0
+NFLX,6.75,10.45,0.16,17.36,LAG_PERF,13.28,Media,2
+NWL,5.3,4.0,6.68,15.98,LAG_PERF,9.96,Consumer Durables,2
+NEM,11.12,4.91,9.42,25.45,,40.61,Precious Metals,3
+NWSA,5.72,8.6,0.08,14.4,LAG_PERF,6.81,Media,2
+NEE,8.78,5.56,14.73,29.07,,53.84,Utilities,2
+NLSN,16.9,5.97,0.06,22.93,,31.1,Commercial Services,1
+NKE,5.56,6.95,2.29,14.8,LAG_PERF,7.65,Textiles & Apparel,3
+NI,10.52,6.58,15.2,32.3,LEAD_PERF,65.36,Utilities,3
+NSC,12.37,3.41,7.85,23.63,,33.7,Transportation,2
+NTRS,12.55,10.33,2.24,25.13,,39.28,Diversified Financials,2
+NOC,16.95,4.76,8.84,30.55,LEAD_PERF,59.38,Aerospace & Defense,3
+NLOK,10.22,5.42,1.17,16.81,LAG_PERF,11.96,Software & Services,2
+NCLH,10.97,4.47,12.54,27.99,,49.78,Consumer Services,2
+NOV,12.73,8.94,13.11,34.78,LEAD_PERF,73.17,Energy Services,1
+NRG,8.95,5.55,17.26,31.75,LEAD_PERF,63.69,Utilities,2
+NUE,16.02,9.55,10.6,36.17,LEAD_PERF,76.86,Steel,2
+NVDA,4.15,6.88,2.33,13.37,LAG_PERF,4.83,Semiconductors,2
+NVR,8.65,5.0,6.91,20.57,,23.19,Homebuilders,2
+ORLY,8.32,4.03,0.12,12.47,LAG_PERF,3.66,Retailing,1
+OXY,10.85,6.51,19.53,36.89,LEAD_PERF,78.92,Oil & Gas Producers,2
+OMC,10.1,7.79,0.07,17.96,LAG_PERF,15.14,Media,2
+OKE,8.13,3.36,13.6,25.09,,39.16,Refiners & Pipelines,1
+ORCL,11.18,6.57,0.43,18.18,LAG_PERF,15.72,Software & Services,3
+PCAR,17.26,9.38,8.32,34.96,LEAD_PERF,73.72,Machinery,3
+PKG,1.41,4.1,9.83,15.34,LAG_PERF,8.64,Containers & Packaging,2
+PH,12.09,7.52,8.48,28.09,,50.15,Machinery,2
+PAYX,9.2,6.62,0.11,15.94,LAG_PERF,9.87,Software & Services,0
+PYPL,11.15,6.46,0.09,17.7,LAG_PERF,14.37,Software & Services,2
+PNR,15.53,7.56,10.31,33.4,LEAD_PERF,69.04,Machinery,1
+PBCT,12.16,9.78,1.82,23.77,,34.32,Banks,2
+PEP,7.79,4.82,5.15,17.76,LAG_PERF,14.57,Food Products,3
+PKI,12.75,6.42,1.65,20.82,,23.95,Pharmaceuticals,2
+PRGO,23.67,13.54,3.1,40.31,,85.31,Pharmaceuticals,2
+PFE,13.07,10.44,1.75,25.26,,39.79,Pharmaceuticals,3
+PM,11.32,9.31,3.79,24.41,,36.61,Food Products,3
+PSX,8.08,5.38,18.18,31.63,LEAD_PERF,63.15,Refiners & Pipelines,3
+PNW,10.49,6.15,11.72,28.37,,51.1,Utilities,2
+PXD,9.14,8.8,16.81,34.75,LEAD_PERF,73.05,Oil & Gas Producers,1
+PNC,12.39,8.69,1.77,22.86,,30.85,Banks,3
+PPG,8.78,7.96,10.17,26.91,,46.07,Chemicals,2
+PPL,10.99,5.47,18.72,35.17,LEAD_PERF,74.34,Utilities,2
+PFG,7.5,11.06,2.11,20.67,,23.46,Insurance,1
+PG,9.47,7.43,8.21,25.1,,39.21,Household Products,3
+PGR,9.27,11.8,1.75,22.81,,30.7,Insurance,2
+PLD,3.38,3.9,2.44,9.73,,1.63,Real Estate,1
+PRU,11.21,8.64,0.62,20.47,,22.91,Insurance,2
+PEG,9.7,5.22,14.46,29.37,,54.9,Utilities,2
+PSA,4.25,5.48,4.92,14.65,LAG_PERF,7.4,Real Estate,0
+PHM,9.36,4.89,7.71,21.96,,27.84,Homebuilders,2
+PVH,6.94,5.39,1.12,13.44,LAG_PERF,4.94,Textiles & Apparel,3
+QRVO,8.91,7.19,15.88,31.97,LEAD_PERF,64.43,Semiconductors,0
+QCOM,3.49,9.31,6.39,19.19,LAG_PERF,18.51,Semiconductors,4
+PWR,16.79,10.54,8.79,36.12,LEAD_PERF,76.68,Construction & Engineering,1
+DGX,10.08,8.65,0.12,18.85,LAG_PERF,17.51,Healthcare,3
+RL,6.61,5.94,1.29,13.84,LAG_PERF,5.68,Textiles & Apparel,2
+RJF,12.19,13.76,1.73,27.68,,48.57,Diversified Financials,2
+O,6.34,4.98,5.27,16.59,LAG_PERF,11.45,Real Estate,0
+REG,3.58,4.69,3.76,12.03,LAG_PERF,3.2,Real Estate,0
+REGN,13.94,7.67,0.01,21.62,,26.58,Pharmaceuticals,2
+RF,9.8,7.84,1.76,19.4,LAG_PERF,19.3,Banks,2
+RSG,6.04,3.77,11.39,21.2,,25.18,Commercial Services,3
+RMD,12.5,10.53,4.42,27.44,,47.8,Healthcare,1
+RHI,7.43,3.79,0.1,11.32,LAG_PERF,2.52,Commercial Services,1
+ROK,10.08,6.69,5.28,22.04,,28.06,Electrical Equipment,1
+ROL,11.58,7.11,1.84,20.49,,22.96,Commercial Services,0
+ROP,13.72,6.0,1.13,20.84,,24.03,Software & Services,0
+ROST,7.95,5.73,1.6,15.27,LAG_PERF,8.52,Retailing,2
+RCL,8.81,4.0,9.5,22.31,,29.01,Consumer Services,3
+SPGI,5.77,5.37,1.57,12.71,LAG_PERF,3.97,Diversified Financials,3
+CRM,6.49,4.27,0.47,11.23,LAG_PERF,2.44,Software & Services,2
+SBAC,7.76,7.09,2.36,17.21,LAG_PERF,12.99,Real Estate,0
+SLB,8.76,7.33,10.25,26.34,,43.98,Energy Services,2
+STX,3.8,5.07,1.59,10.46,LAG_PERF,1.94,Technology Hardware,1
+SEE,2.53,3.44,13.92,19.9,LAG_PERF,20.82,Containers & Packaging,2
+SRE,10.28,5.61,14.07,29.96,,57.19,Utilities,3
+NOW,9.18,6.41,1.46,17.05,LAG_PERF,12.59,Software & Services,0
+SHW,11.06,5.75,12.76,29.56,,55.68,Chemicals,2
+SPG,4.75,4.88,5.53,15.16,LAG_PERF,8.35,Real Estate,1
+SWKS,9.51,8.32,15.48,33.31,LEAD_PERF,68.74,Semiconductors,0
+SLG,3.88,6.19,3.31,13.38,LAG_PERF,4.87,Real Estate,1
+SNA,14.1,7.75,10.76,32.61,LEAD_PERF,66.42,Machinery,2
+SO,12.25,6.66,13.01,31.91,LEAD_PERF,64.21,Utilities,2
+LUV,15.24,6.05,10.14,31.43,LEAD_PERF,62.37,Transportation,2
+SWK,12.55,8.59,5.72,26.86,,45.83,Machinery,1
+SBUX,13.53,4.63,2.59,20.76,,23.72,Consumer Services,3
+STT,12.43,8.52,1.56,22.5,,29.67,Diversified Financials,2
+SYK,17.68,11.69,5.06,34.43,LEAD_PERF,72.17,Healthcare,3
+SIVB,12.15,12.75,2.25,27.14,,46.77,Banks,0
+SYF,12.12,7.13,0.14,19.39,LAG_PERF,19.25,Diversified Financials,1
+SNPS,9.07,4.37,1.1,14.54,LAG_PERF,7.18,Software & Services,0
+SYY,5.03,4.41,2.36,11.8,LAG_PERF,2.99,Food Retailers,2
+TMUS,14.6,7.82,4.66,27.09,,46.55,Telecommunication Services,3
+TROW,11.79,5.78,1.94,19.5,LAG_PERF,19.59,Diversified Financials,2
+TPR,7.46,4.91,1.16,13.52,LAG_PERF,5.11,Textiles & Apparel,2
+TGT,7.63,5.34,2.08,15.04,LAG_PERF,8.1,Retailing,3
+TEL,4.53,5.01,6.74,16.28,LAG_PERF,10.65,Technology Hardware,1
+TFX,16.15,7.98,4.64,28.76,,52.71,Healthcare,2
+TER,6.0,5.74,6.97,18.7,LAG_PERF,17.24,Semiconductors,0
+TSLA,17.31,11.03,2.95,31.29,LEAD_PERF,61.89,Automobiles,3
+TXN,5.49,5.63,6.44,17.56,LAG_PERF,13.85,Semiconductors,2
+TXT,18.28,7.16,9.8,35.24,LEAD_PERF,74.5,Aerospace & Defense,2
+BK,9.83,10.87,1.97,22.67,,30.22,Diversified Financials,3
+CLX,7.92,6.08,8.84,22.84,,30.78,Household Products,2
+COO,10.73,7.0,3.1,20.84,,24.0,Healthcare,2
+HSY,10.09,5.26,9.66,25.02,,38.81,Food Products,3
+MOS,11.89,8.39,14.72,35.0,LEAD_PERF,73.83,Chemicals,2
+TRV,9.25,11.14,1.55,21.93,,27.68,Insurance,2
+DIS,8.06,8.13,0.03,16.22,LAG_PERF,10.47,Media,2
+TMO,6.03,6.46,1.52,14.01,LAG_PERF,6.06,Pharmaceuticals,2
+TJX,7.19,5.34,2.03,14.56,LAG_PERF,7.22,Retailing,2
+TSCO,8.2,4.18,3.3,15.69,LAG_PERF,9.39,Retailing,2
+TT,2.13,5.36,7.12,14.6,LAG_PERF,7.29,Building Products,2
+TDG,19.84,8.5,11.25,39.59,LEAD_PERF,84.25,Aerospace & Defense,2
+TRMB,3.82,5.32,3.74,12.89,LAG_PERF,4.17,Technology Hardware,1
+TWTR,12.75,9.16,3.0,24.92,,38.45,Software & Services,3
+TSN,13.47,9.89,12.6,35.96,LEAD_PERF,76.33,Food Products,4
+USB,13.49,12.22,1.39,27.1,,46.62,Banks,3
+UDR,4.23,5.1,3.77,13.1,LAG_PERF,4.45,Real Estate,0
+ULTA,7.34,5.82,3.74,16.91,LAG_PERF,12.22,Retailing,1
+UAA,8.03,5.96,1.84,15.83,LAG_PERF,9.68,Retailing,2
+UNP,11.0,3.58,7.59,22.17,,28.53,Transportation,2
+UAL,14.63,5.54,11.41,31.58,LEAD_PERF,62.96,Transportation,2
+UPS,9.23,5.68,5.59,20.5,,23.01,Transportation,3
+URI,6.52,6.05,4.52,17.08,LAG_PERF,12.64,Traders & Distributors,1
+UNH,15.39,5.87,0.03,21.29,,25.47,Healthcare,3
+UHS,22.18,9.86,3.33,35.37,LEAD_PERF,74.84,Healthcare,3
+UNM,7.42,12.29,2.67,22.38,,29.23,Insurance,1
+VLO,6.87,5.41,15.97,28.25,,50.63,Refiners & Pipelines,3
+VAR,12.82,10.43,3.73,26.98,,46.27,Healthcare,1
+VTR,4.03,4.77,3.4,12.2,LAG_PERF,3.35,Real Estate,0
+VRSN,12.87,6.19,3.04,22.1,,28.22,Software & Services,0
+VRSK,14.68,6.46,0.11,21.24,,25.33,Commercial Services,1
+VZ,10.2,6.18,1.71,18.09,LAG_PERF,15.47,Telecommunication Services,3
+VRTX,17.22,7.46,0.15,24.84,,38.14,Pharmaceuticals,2
+VFC,5.75,4.67,0.87,11.29,LAG_PERF,2.49,Textiles & Apparel,2
+V,9.83,7.43,0.11,17.36,LAG_PERF,13.3,Software & Services,3
+VNO,4.68,6.47,2.45,13.59,LAG_PERF,5.29,Real Estate,1
+VMC,5.17,8.52,15.22,28.91,,53.21,Construction Materials,2
+WRB,7.59,14.34,2.04,23.97,,34.96,Insurance,1
+WBA,10.92,4.65,1.92,17.49,LAG_PERF,13.7,Food Retailers,3
+WMT,17.2,6.91,3.4,27.51,,47.99,Food Retailers,4
+WM,3.61,3.58,7.69,14.89,LAG_PERF,7.84,Commercial Services,2
+WAT,10.67,5.88,1.48,18.03,LAG_PERF,15.31,Pharmaceuticals,0
+WEC,9.24,5.22,17.85,32.32,LEAD_PERF,65.44,Utilities,1
+WFC,14.74,15.25,1.25,31.25,LEAD_PERF,61.74,Banks,5
+WELL,3.0,5.12,3.51,11.63,LAG_PERF,2.81,Real Estate,1
+WDC,4.24,5.6,2.24,12.09,LAG_PERF,3.27,Technology Hardware,1
+WU,9.74,6.56,0.11,16.41,LAG_PERF,11.0,Software & Services,3
+WAB,14.08,8.02,10.41,32.51,LEAD_PERF,66.02,Machinery,1
+WY,3.44,4.18,9.27,16.89,LAG_PERF,12.15,Paper & Forestry,3
+WHR,6.78,4.61,6.74,18.12,LAG_PERF,15.55,Consumer Durables,2
+WMB,8.52,3.23,9.02,20.77,,23.75,Refiners & Pipelines,2
+WLTW,10.21,10.44,0.13,20.78,,23.78,Insurance,2
+WYNN,11.69,11.54,3.53,26.75,,45.47,Consumer Services,3
+XEL,8.73,4.27,16.26,29.26,,54.41,Utilities,1
+XLNX,5.88,7.72,9.09,22.68,,30.24,Semiconductors,0
+XYL,7.78,5.11,3.53,16.42,LAG_PERF,11.03,Machinery,2
+YUM,12.9,4.42,3.99,21.31,,25.52,Consumer Services,3
+ZBH,18.9,10.46,4.79,34.16,LEAD_PERF,71.44,Healthcare,2
+ZTS,10.33,11.45,2.34,24.11,,35.44,Pharmaceuticals,1
