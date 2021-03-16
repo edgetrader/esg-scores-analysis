@@ -1,4 +1,4 @@
-# Stock selection and portfolio performance analysis based on ESG Scores
+# Stock selection and portfolio performance analysis based on ESG scores
 
 ## Summary
 
